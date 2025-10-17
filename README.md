@@ -1,6 +1,6 @@
 **Welcome**
 Thanks for checking this code out.  I tried to make user-friendly notifications for in-world messages and console.log information that one may find here after starting a map/experience:
-C:\Users\[Username]\AppData\Local\Temp\Battlefieldâ„¢ 6PortalLog.txt.
+C:\Users\[Username]\AppData\Local\Temp\Battlefieldâ„¢ 6\PortalLog.txt.
 
 Feel free to give me any feedback or repurpose the code.
 
